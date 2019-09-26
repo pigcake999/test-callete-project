@@ -1,0 +1,13 @@
+{
+	"name": "Docs",
+	"version": "1.0.0",
+	"description": "A callete project",
+	"author": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "callete serve",
+		"build": "callete build -p"
+	},
+	"keywords": [],
+	"license": "ISC"
+}

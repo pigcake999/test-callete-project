@@ -1,0 +1,10 @@
+[
+	{
+		"url": "/",
+		"component": "index.ette"
+	},
+	{
+		"url": "/about",
+		"component": "about.ette"
+	}
+]
