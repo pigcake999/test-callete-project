@@ -8,6 +8,6 @@
 		"dev": "callete serve",
 		"build": "npm i callete -g && callete build -p -N"
 	},
-	"keywords": [],
+	"keywords": ["test", "callete", "app"],
 	"license": "ISC"
 }
