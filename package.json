@@ -6,7 +6,7 @@
 	"main": "index.js",
 	"scripts": {
 		"dev": "callete serve",
-		"build": "callete build -p"
+		"build": "npm i callete -g && callete build -p"
 	},
 	"keywords": [],
 	"license": "ISC"
